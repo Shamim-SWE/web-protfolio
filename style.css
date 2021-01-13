@@ -1,0 +1,110 @@
+body{
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+}
+.highlite{
+    color:rgba(17, 0, 255, 0.658);
+}
+.er{
+    border-radius: 5px;
+    box-shadow: 10px,10px;
+    width:40%;
+    float: left;
+    margin-left:6%;
+    padding-left:2%
+     
+}
+.fahim-html{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height:50%
+}
+
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left:6%;
+    padding-left:2%
+}
+
+.sin-exp{
+    width:10%;
+    float: left;
+    margin-left:6%;
+    padding-left:2%
+   
+}
+.last-section{
+    background-color: white;
+}
+#full{
+    border-left: 4px  solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#play{
+    border-left:4px  solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+.dream-area{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position:right;
+}
+.last-section{
+    height:500px;
+    background-repeat: no-repeat;
+    background-image: url("exp-bg.png");
+    background-position:inherit;
+}
+.first-section{
+    height:500px;
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+.half-width1{
+    
+    width:30%;
+    float:right; 
+    margin-left:6%;
+    padding-left:2%;
+}
+img{
+    width:100%;
+}
+.dream{
+    background-repeat:no-repeat;
+}
+.H{
+    color:brown;
+}
+.Dwonload{
+    text-decoration:none;
+    color:bisque;
+    background-color: rgb(44, 184, 16);
+    padding:10px,20px;
+    border-radius:5px;
+    font-size:100;
+    font-weight:100;
+}
+section{
+    height:500px;
+    padding-bottom:150px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: aqua;
+    padding:10px,20px;
+    border-radius:5px;
+    font-size:100;
+    font-weight:100;
+
+}
+footer p{
+    text-align: center;
+}
